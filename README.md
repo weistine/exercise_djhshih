@@ -41,8 +41,8 @@ The transcriptomic data is in `data/expr_sclc_ucologne_2015.rds`.
     **scartch program in `result\Q2.2_scratch_median_polish.sb3`**   
     **scartch output in `result\Q2.2_test_scratch_output.txt`**   
 3. Compare the residuals of your algorithm and `stats::medpolish`.
-    **answer in `result\Q2.4_heatmap_of_results_before_and_after_median_polish.pdf`**    
-    **`result\Q2.2_gene_expression_matrix_with_medpolish_result.Rda' is the residuals of expression matrix with `stats::medpolish`**   
+    **answer in `result\Q2.2_heatmap_of_results_before_and_after_median_polish.pdf`**    
+    **`result\Q2.3_gene_expression_matrix_with_medpolish_result.Rda' is the residuals of expression matrix with `stats::medpolish`**   
 4. Plot heatmaps of the results before and after median polish.
     **answer in `result\Q2.4_heatmap_of_results_before_and_after_median_polish.pdf`**   
 5. Output the median polished residual matrix as the normalized transcriptomic data.

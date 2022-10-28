@@ -7,7 +7,7 @@ library(ggsci)
 library(data.table)
 library(plyr)
 
-setwd("D:/Desktop/exercise-r-main/exercise-r-main")
+setwd("D:/Desktop/exercise_djhshih")
 
 # Q1.Mutation data analysis --------
 mut_dat <- readRDS("data/mutations_sclc_ucologne_2015.rds")
